@@ -1,12 +1,13 @@
-##Read 
-https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Read.PNG
-
+##Read !
+[Read](ScreenShoot/Read.PNG)
+<!-- https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Read.PNG -->
 ##Create
-https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Create.PNG
-
+[Create](ScreenShoot/Create.PNG)
+<!-- https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Create.PNG -->
 ##Update 
-https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Update.PNG
-
+[Update](ScreenShoot/Update.PNG)
+<!-- https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Update.PNG -->
 ##Delete
-https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Delete.PNG
+[Delete](ScreenShoot/Delete.PNG)
+<!-- https://github.com/BosToken/Arkademy-Bootcamp/blob/master/ScreenShoot/Delete.PNG -->
 
